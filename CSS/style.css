@@ -1,0 +1,99 @@
+
+.left-block {
+	width: 364px;
+	height: 190px;
+	display: inline-block;
+	background-color: #F8F8F8;
+	margin-right: 16px;
+	vertical-align: top;
+}
+
+.right-block {
+	width: 364px;
+	height: 190px;
+	padding-left: 4px;
+	display: inline-block;
+	background-color: #BE2B2B;
+}
+
+.main-title-geo {
+	margin-bottom: 50px;
+}
+.small-title-geo {
+	color: #5863F8;
+	display: inline-block;
+	margin-top: 82px;
+
+}
+.small-title-box {
+	color: #5863F8;
+	display: inline-block;
+	padding-top: 37px;
+	padding-left: 12px;
+}
+
+
+.block-title-geo {
+	padding-bottom: 10px;
+	padding-left: 12px;
+}
+.block-text-geo {
+	width: 260px;
+	height: 62px;
+	display: inline-block;
+	padding-left: 12px;
+}
+.block-en {
+	display: inline-block;
+	background-color: #F8F8F8;
+	width: 352px;
+	height: 360px;
+	margin-right: 16px;
+}
+.small-title-en {
+	color: #5863F8;
+	display: inline-block;
+	margin-top: 105px;
+}
+
+.small-box-title {
+	color: #5863F8;
+	text-align: center;
+	margin-top: 23px;
+}
+
+.block-img {
+	display: inline-block;
+	vertical-align: top;
+}
+.main-title-en {
+	margin-bottom: 50px;
+}
+
+.block-title-en {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.block-text-en {
+	text-align: center;
+}
+.content {
+	max-width: 1188px;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
